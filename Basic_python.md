@@ -9,8 +9,6 @@
             print(type(a))
             a = int(4)
             print(type(a))
-            
-            
 Output: 
 <class 'str'>
 <class 'int'>
