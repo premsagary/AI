@@ -12,6 +12,7 @@
             
             
 Output: <class 'str'>
+        
         <class 'int'>
 
 
