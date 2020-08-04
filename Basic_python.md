@@ -3,7 +3,7 @@
 
 # Python Basics
 
-###Type casting
+### Type casting
             
             a = "4"
             print(type(a))
