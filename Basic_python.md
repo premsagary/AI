@@ -11,9 +11,9 @@
             print(type(a))
             
             
-Output: <class 'str'>
-        
-        <class 'int'>
+Output: 
+<class 'str'>
+<class 'int'>
 
 
 
