@@ -1,3 +1,3 @@
 # Welcome to AI Github page 
-### *[BasicPython](Basic_python.md)*
+### *[Basic Python](Basic_python.md)*
 
