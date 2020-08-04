@@ -23,6 +23,20 @@
   - Discrete
   
   
+# Categorical 
+
+     ## Nominal 
+      - No natural order b/w lables
+      - cat,dog,lion
+      - cat < dog < lion
+      
+     ## Ordinal 
+      - Lables with Order 
+      - small < large < extralarge
+      - Ratings for movie 
+     
+   
+  
 
 
 
